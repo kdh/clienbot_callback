@@ -8,7 +8,7 @@ STEP 1. NAS 나 개인서버에 이 파일을 올리고 웹서비스를 활성�
 STEP 2. 외부내트워크에서 현재 웹페이지에 접근할 수 있도록 포트포워딩 및 방화벽을 설정하세요. 
 
 
-STEP 3. clienbot.php 파일에서 CLIEN_ID 의 please_set_id 를 클리앙 아이디로, CLIEN_PASSWORD 에서 please_set_password 를 클리앙 비밀번호로 바꾸세요.
+STEP 3. clienbot.php 파일에서 8번째 줄 please_set_id 를 클리앙 아이디로, 9번째 줄 please_set_password 를 클리앙 비밀번호로 바꾸세요.
 
 
 STEP 4. pc 브라우저에서 http://[nas ip]/clienbot.php 로 접속해 보세요.
